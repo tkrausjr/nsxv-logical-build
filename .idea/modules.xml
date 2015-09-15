@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PyNSXv/.idea/PyNSXv.iml" filepath="$PROJECT_DIR$/../PyNSXv/.idea/PyNSXv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nsxv-Logical-Build.iml" filepath="$PROJECT_DIR$/.idea/nsxv-Logical-Build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nsxv-api-client/.idea/nsxv-api-client.iml" filepath="$PROJECT_DIR$/../nsxv-api-client/.idea/nsxv-api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nsxv-python-install/.idea/nsxv-python-install.iml" filepath="$PROJECT_DIR$/../nsxv-python-install/.idea/nsxv-python-install.iml" />
+    </modules>
+  </component>
+</project>
+
